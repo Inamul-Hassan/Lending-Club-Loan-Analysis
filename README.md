@@ -4,11 +4,11 @@ Analying the lending club loan data to predict whether a new customer will fully
 
 ### Dataset
 
-I am using a subset of the (All Leading Club Loan Data)[https://www.kaggle.com/wordsforthewise/lending-club] from kaggle.
+I am using a subset of the [All Leading Club Loan Data](https://www.kaggle.com/wordsforthewise/lending-club) from kaggle.
 
 ----
 -----
-Information about the dataset
+Dataset Features Information
 
 <table border="1" class="dataframe">
   <thead>
